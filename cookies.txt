@@ -1,0 +1,31 @@
+# Netscape HTTP Cookie File
+.www.qq.com	TRUE	/	FALSE	1509847867	ts_uid	4522086869
+.qzone.qq.com	TRUE	/	FALSE	1477901483	fnc	2
+.qzone.qq.com	TRUE	/	FALSE	1477929545	Loading	Yes
+.user.qzone.qq.com	TRUE	/	FALSE	1480493185	qz_screen	1920x1080
+.qzone.qq.com	TRUE	/	FALSE	1793261190	QZ_FE_WEBP_SUPPORT	0
+.qzone.qq.com	TRUE	/	FALSE	1793261205	cpu_performance_v8	7
+.qq.com	TRUE	/	FALSE	2147385600	pgv_pvid	4022784318
+.qq.com	TRUE	/	FALSE	1793339277	RK	xRPufCFHma
+.qq.com	TRUE	/	FALSE	2147385600	pgv_pvi	3442240512
+.qzone.qq.com	TRUE	/	FALSE	1478065781	welcomeflash	12345689_4
+.qzone.qq.com	TRUE	/	FALSE	1488779496	__Q_w_s_hat_seed	1
+.qzone.qq.com	TRUE	/	FALSE	1488780563	__Q_w_s__QZN_TodoMsgCnt	1
+.qzone.qq.com	TRUE	/	FALSE	0	zzpaneluin	
+.qzone.qq.com	TRUE	/	FALSE	0	zzpanelkey	
+.qq.com	TRUE	/	FALSE	1478223641	_qz_referrer	i.qq.com
+.qq.com	TRUE	/	FALSE	0	pgv_si	s2376899584
+.qq.com	TRUE	/	FALSE	0	pgv_info	ssid=s6685946728
+.qq.com	TRUE	/	FALSE	1480835589	ptui_loginuin	3149098972
+.qq.com	TRUE	/	FALSE	0	ptisp	cnc
+.qq.com	TRUE	/	FALSE	1577923139	ptcz	997a89d37ccb8294974f2b54f45f36bc87a987f298489fe3f53344d55902ed20
+.qq.com	TRUE	/	FALSE	1577923139	pt2gguin	o3149098972
+.qq.com	TRUE	/	FALSE	0	uin	o3149098972
+.qq.com	TRUE	/	FALSE	0	skey	@WNyZhjjh0
+.qzone.qq.com	TRUE	/	FALSE	0	p_uin	o3149098972
+.qzone.qq.com	TRUE	/	FALSE	0	p_skey	O*53nMaiuDdSOovH1hpOL49exsOgdBYiyMKMc*Ddvxs_
+.qzone.qq.com	TRUE	/	FALSE	0	pt4_token	b9GdpOhzedqKvcZ5MNrur5xFTSUA9G-hVg3MLcQHe0I_
+.qq.com	TRUE	/	FALSE	0	qzone_check	3149098972_1478243650
+.qq.com	TRUE	/	FALSE	0	rv2	8000343D02AD27715A9E5758666B99EE1CC21493DF4817FAEB
+.qq.com	TRUE	/	FALSE	0	property20	9C97B939914AC702C3E27515F76F1C473BB2189CF6187596E60E1E5EC09ACA58103110FF3D011E73
+.qzone.qq.com	TRUE	/	FALSE	0	blabla	dynamic
